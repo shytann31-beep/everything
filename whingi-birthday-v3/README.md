@@ -15,3 +15,14 @@ This folder is a complete Hatchable project. Everything the app needs is in thes
 Hatchable is where AI-built apps go live. Connect the AI you already use and it can build, deploy, and run apps like this one for you.
 
 Built on Hatchable. https://hatchable.com
+![image](https://github.com/shytann31-beep/everything/blob/main/whingi-birthday-v3/public/photos/temple-portrait.jpg?raw=true)
+![image](https://github.com/shytann31-beep/everything/blob/main/whingi-birthday-v3/public/photos/temple-gate.jpg?raw=true)
+![image](https://github.com/shytann31-beep/everything/blob/main/whingi-birthday-v3/public/photos/taj-mahal.jpg?raw=true
+)
+![image](https://github.com/shytann31-beep/everything/blob/main/whingi-birthday-v3/public/photos/portrait.jpg?raw=true
+)
+![image](https://github.com/shytann31-beep/everything/blob/main/whingi-birthday-v3/public/photos/golden-hour-village.png?raw=true
+)
+![image](https://github.com/shytann31-beep/everything/blob/main/whingi-birthday-v3/public/photos/eyes.jpg?raw=true
+)
+![image]()
