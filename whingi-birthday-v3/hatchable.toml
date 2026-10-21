@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Whingi Birthday Letter"
+description = "A mobile-first romantic birthday letter website for Whingi (Bunty), with an interactive secret nickname reveal, handwritten messages, photo gallery slots, apology, wishes, final letter, and gentle music controls."
